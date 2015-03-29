@@ -1,9 +1,9 @@
 {
-"name": "Lazy CUHK",
+"name": "Lazy CUHK Updated",
  "version": "9.0.0",
  "manifest_version": 2,
 
-"description": "Automatic login to CUHK services including ResNet, wifi, library, mycuhk, ERGWAVE, IEWAVE,etc. (unofficial)",
+"description": "This is an updated and modified version of LazyCUHK. The original author has graduated and abandoned the project.",
 "icons": {
     "128": "icon/icon128.png",
     "48": "icon/icon48.png",
@@ -38,6 +38,6 @@
       ]} ],
 "browser_action": {
     "default_icon": "icon/icon48.png",
-    "default_title": "LazyCUHK"
+    "default_title": "LazyCUHK - click to switch on/off"
   }
 }

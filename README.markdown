@@ -1,6 +1,13 @@
 #LazyCUHK
 Automatic login to CUHK services including ResNet, WiFi, library, MyCUHK, ERGWAVE, Blackboard, etc. (unofficial)
 
+###Notice:	
+**This is a modified and updated fork of https://github.com/TangRufus/LazyCUHK**  
+The original author of LazyCUHK has graduated and seemed stop updating it.  
+I will keep it updated for now. All donation links are remained and linked to previous author's account.
+
+If you want to contribute to this repo, please send your pull request to this fork.
+
 ##Anouncement
 You can get the source code of LazyCUHK via its [GitHub Repo](https://github.com/TangRufus/LazyCUHK) page or [Chrome Web App Store](https://chrome.google.com/webstore/detail/lazy-cuhk/hhholmpehbnebpfklecipmcpkelnnabe).
 
