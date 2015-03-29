@@ -9,7 +9,7 @@ I will keep it updated for now. All donation links are remained and linked to pr
 If you want to contribute to this repo, please send your pull request to this fork.
 
 ##Anouncement
-You can get the source code of LazyCUHK via its [GitHub Repo](https://github.com/TangRufus/LazyCUHK) page or [Chrome Web App Store](https://chrome.google.com/webstore/detail/lazy-cuhk/hhholmpehbnebpfklecipmcpkelnnabe).
+You can get the source code of LazyCUHK via its [GitHub Repo](https://github.com/TangRufus/LazyCUHK) page or [Chrome Web App Store](https://chrome.google.com/webstore/detail/ckpifloghgnjcnafpboedlhcbfmlfpci).
 
 ##Installation
 1. Download the source code from its [GitHub Releases](https://github.com/TangRufus/LazyCUHK/releases) page [^1]
