@@ -18,7 +18,7 @@
       "js": [ "login.js" ],
       "matches": [
         "*://securelogin.net.cuhk.edu.hk/*",
-        "*://securelogin.arubanetworks.com/cgi-bin/*",
+        "*://securelogin.arubanetworks.com/*",
         "*://securelogin.wlan.cuhk.edu.hk/*",
         "*://*.y5zone.net/*",
         "*://hotspot.pccwwifi.com/*",
