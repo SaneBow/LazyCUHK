@@ -1,5 +1,7 @@
 #LazyCUHK ChangeLog
 
+##v9.0.2 (15 April 2015)
+* Fix Resnet login issue
 
 ##v9.0.0 (18 March 2015)
 * Add switch icon
