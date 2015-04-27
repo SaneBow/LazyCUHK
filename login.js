@@ -143,7 +143,7 @@ function loginCUHKLibrary() {
 function loginMyCUHK() {
 	showMSG("start MyCUHK login");
 	//Click OnePass redirection link
-	document.querySelector('a[href="./?languageCd=ENG"]').click();
+	document.querySelector('a[href^="./?languageCd=ENG"]').click();
 	showMSG("Mycuhk redirect to OnePass");
 }
 
