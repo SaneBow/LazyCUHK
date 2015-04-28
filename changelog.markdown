@@ -1,5 +1,8 @@
 #LazyCUHK ChangeLog
 
+##v9.0.3 (28 April 2015)
+* Fix mycuhk onepass button bug
+
 ##v9.0.2 (15 April 2015)
 * Fix Resnet login issue
 
